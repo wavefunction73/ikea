@@ -1,0 +1,25 @@
+CLAN    IKEA
+SERVER  Hex AU 5x PVE | Skills | Jetpack | Quests | Custom Weapons (20839213)
+WINDOW  Fri 02 Oct 04:45 -> Fri 02 Oct 20:01  [AUS Eastern Standard Time, 0.6 days]
+
+PLAYER         HOURS  SESS  FIRST SEEN        LAST SEEN         NOW
+WaveFunction    13.8     2  Fri 02 Oct 04:45  Fri 02 Oct 20:01  ONLINE
+Genevtana       11.4     5  Fri 02 Oct 04:45  Fri 02 Oct 20:01  ONLINE
+Bruh             8.4     5  Fri 02 Oct 04:58  Fri 02 Oct 19:19  
+ANT3RA           3.8     1  Fri 02 Oct 16:15  Fri 02 Oct 20:01  ONLINE
+
+HOURLY PATTERN (local time; 0-9 = share of days online in that hour, . = never)
+              000000000011111111112222
+              012345678901234567890123
+ANT3RA        ................99999...
+Bruh          ....999...9999999999....
+Genevtana     ....99999..9999999999...
+WaveFunction  ....99999999999999999...
+
+CLAN OVERLAP (total time with at least N members online)
+  1+ online:   15.1 h
+  2+ online:   13.2 h
+  3+ online:    8.8 h
+  4+ online:    0.4 h
+BUSIEST HOURS (avg members online): 19:00 (3.3), 12:00 (3.0), 15:00 (3.0), 18:00 (3.0), 20:00 (3.0)
+QUIETEST HOURS: 00:00 (0.0), 01:00 (0.0), 02:00 (0.0), 03:00 (0.0), 21:00 (0.0)

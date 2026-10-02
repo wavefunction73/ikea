@@ -1,0 +1,24 @@
+{
+  "server_id": "20839213",
+  "api_token": "",
+  "clan_name": "IKEA",
+  "wipe_start": "auto",
+  "clan": [
+    {
+      "name": "ANT3RA",
+      "bm_id": "1200922599"
+    },
+    {
+      "name": "Bruh",
+      "bm_id": "967786884"
+    },
+    {
+      "name": "Genevtana",
+      "bm_id": "988895142"
+    },
+    {
+      "name": "WaveFunction",
+      "bm_id": "393737518"
+    }
+  ]
+}
